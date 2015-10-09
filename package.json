@@ -1,0 +1,28 @@
+{
+  "name": "node-redis-cache",
+  "version": "1.0.0",
+  "description": "Node redis cache program",
+  "author": "Prasanth P <prasanth@cubettech.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prasanth-cubettech/node-redis-cache"
+  },
+  "bugs": {
+    "url": "https://github.com/prasanth-cubettech/node-redis-cache/issues"
+  },
+  "keywords": [
+    "nodejs",
+    "redis",
+    "cache"
+  ],
+  "dependencies": {
+    "express": "^4.13.3",
+    "redis": "^2.1.0"
+  },
+  "analyze": true,
+  "license": "MIT"
+}
